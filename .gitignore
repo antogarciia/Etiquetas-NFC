@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# SQLite
+db.sqlite3
+
+# Django
+media/
+
+# Static files collected
+staticfiles/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Migrations cache
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+
+# IDE
+.idea/
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+media/
+data/
+build/
+dist/
+target/
+*.log
+config/clinica.properties
